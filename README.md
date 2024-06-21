@@ -1,6 +1,8 @@
 # arduino-attiny402-tiny-house
 
-"小さなお家" のLED制御ソフトウェア．LEDをランダムに順次点灯し，一定時間後に順次消灯する．
+"小さなお家" の各LEDをランダムに順次点灯し，一定時間後に順次消灯する，LED制御ソフトウェア．
+
+![Tiny House](tiny-house.jpg)
 
 ## Hardware
 
